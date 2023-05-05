@@ -1,2 +1,12 @@
 *.[oa]
 *~
+
+# best parctices
+*.log
+logs/**
+.gitignore
+/TODO
+build/
+!lib.a
+doc/*.txt
+doc/**/*.pdf
